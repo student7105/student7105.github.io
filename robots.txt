@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://student7105.github.io/sitemap.xml
